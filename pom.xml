@@ -46,7 +46,7 @@ THE POSSIBILITY OF SUCH DAMAGE.
     -->
 
     <prerequisites>
-        <maven>3.0</maven>
+        <maven>3.6.3</maven>
     </prerequisites>
 
     <dependencies>
